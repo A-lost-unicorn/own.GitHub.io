@@ -1,38 +1,25 @@
-## Welcome to GitHub Pages
+## 网站整理（自用，收集中）
+#### 前端
 
-You can use the [editor on GitHub](https://github.com/A-lost-unicorn/own.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##### vue 项目
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[ Vue CLI ](https://cli.vuejs.org/zh/guide/#cli-服务)
 
-### Markdown
+[教程 | Vue.js 易懂](https://staging-cn.vuejs.org/tutorial/#step-2)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#####  算法
 
-```markdown
-Syntax highlighted code block
+[LeetCode](https://leetcode.cn/leetbook/)
 
-# Header 1
-## Header 2
-### Header 3
-##### header 4
+[代码随想录](https://www.programmercarl.com/)
 
-- Bulleted
-- List
+##### 其他
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+[廖雪峰的官方网站 ](https://www.liaoxuefeng.com/)
 
-[Link](url) and ![Image](src)
-```
+[前端优秀网站汇总](https://litterwang.gitee.io/web-navigation/#/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### 后端
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/A-lost-unicorn/own.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Road 2 Coding](https://www.r2coding.com/#/)

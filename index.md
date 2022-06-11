@@ -5,7 +5,7 @@
 
 [ Vue CLI ](https://cli.vuejs.org/zh/guide/#cli-服务)
 
-[教程 | Vue.js 易懂](https://staging-cn.vuejs.org/tutorial/#step-2)
+[教程Vue.js易懂](https://staging-cn.vuejs.org/tutorial/#step-2)
 
 #####  算法
 
